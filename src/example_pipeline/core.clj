@@ -1,4 +1,4 @@
-(ns work-metric.core
+(ns example-pipeline.core
   (:require
     [example-pipeline.pipeline :as pipeline]
     [example-pipeline.ui-selection :as ui-selection]

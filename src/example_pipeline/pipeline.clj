@@ -1,4 +1,4 @@
-(ns work-metric.pipeline
+(ns example-pipeline.pipeline
   (:use [lambdacd.steps.control-flow]
         [example-pipeline.steps])
   (:require
