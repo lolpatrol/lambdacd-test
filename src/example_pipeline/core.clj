@@ -1,7 +1,7 @@
 (ns work-metric.core
   (:require
     [example-pipeline.pipeline :as pipeline]
-    [example.pipeline.ui-selection :as ui-selection]
+    [example-pipeline.ui-selection :as ui-selection]
     [org.httpkit.server :as http-kit]
     [lambdacd.runners :as runners]
     [lambdacd.core :as lambdacd]
