@@ -11,4 +11,4 @@
                            [ch.qos.logback/logback-classic "1.0.13"]
                            [lambdacd-git "0.4.1" :exclusions [lambdacd]]]
             :profiles {:uberjar {:aot :all}}
-            :main example.core)
+            :main example-pipeline.core)
